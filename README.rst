@@ -2,8 +2,11 @@ m.css
 #####
 
 Installation in windows need some dependencies:
+
 1. python36 -m pip install pelican
+
 2. python36 -m pip install docutils
+
 3. python36 -m pip install jinja2 Pygments
 
 
